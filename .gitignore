@@ -1,0 +1,8 @@
+*inlite*
+.gitattributes
+ReadMe_wabr*
+*.bat
+*.dat
+WabrRubyEdit*
+*.stproj
+web.config
